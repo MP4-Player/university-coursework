@@ -1,0 +1,7 @@
+<objects>
+    <object>
+        <art>тумбочка</art>
+        <tipe>домашняя</tipe>
+        <color>красный</color>
+    </object>
+</objects>
