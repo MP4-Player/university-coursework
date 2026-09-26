@@ -14,7 +14,7 @@ Each subject has its own folder; the original commit history of every assignment
 | [`data-analysis/`](data-analysis) | Data analysis with Python | 1 | pandas EDA on IMDb anime, House Prices and world population datasets, reusable analysis classes (`House_prices`, `Baze`), function plotting and approximation tasks |
 | [`pascal/`](pascal) | Pascal | 1 | Recursive functions counting the number of executor programs (tasks 27–35) |
 | [`software-architecture/`](software-architecture) | Software architecture | 1 | XML data storage lab: reading, adding and printing records with `xml.etree.ElementTree` |
-| [`algorithms-and-methods/`](algorithms-and-methods) | Algorithms and algorithmic methods | 2 | Set operations, finding common words in two sentences, splitting a set into Cyrillic / Latin / digit subsets |
+| [`algorithms-and-methods/`](algorithms-and-methods) | Algorithms and algorithmic methods | 2 | Set operations, text file processing (counting, inserting, searching substrings, word frequencies), finding common words in two sentences, splitting a set into Cyrillic / Latin / digit subsets |
 | [`java-programming/`](java-programming) | Java programming | 3–4 | Labs 1–7: console basics, math, geometry and string tasks, classes (car, complex number), generics (`Bag`, `Pair`), Swing graphics (sine graph, curves, image viewer), dice game with a GUI |
 | [`big-data/`](big-data) | Big Data | 5 | Lab 8: Tkinter app for PostgreSQL/TimescaleDB that generates time-series data and compares query performance of a regular table and a hypertable (DB password is read from `PGPASSWORD`) |
 | [`self-study/`](self-study) | Self-study | – | Notebook from the Hugging Face NLP course (Transformers pipelines) |
